@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk12:slim
+FROM adoptopenjdk/openjdk12
 
 LABEL maintainer "Noriyuki Kazusawa <nokok.kz@gmail.com>"
 
